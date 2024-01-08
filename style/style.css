@@ -14,8 +14,30 @@ section{
     width: 100%;
     height: 600px;
     border-radius: 16px;
-    background: -o-linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url("../resources/Banner\ Image.png")
 }
 .headertext{
     text-align: center;
+}
+.heading{
+    color: black;
+    text-align: center;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 500;
+}
+.banner{
+    text-align: left;
+    font-size: 20px;
+    color: #FFF;
+    background-image: url(../resources/Vectorrr.png);
+}
+.time{
+    background-color: mistyrose;
+}
+span{
+    color: red;
+}
+.form{
+    border-radius: 10%;
 }
