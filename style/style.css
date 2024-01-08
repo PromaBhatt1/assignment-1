@@ -26,18 +26,16 @@ section{
     font-style: normal;
     font-weight: 500;
 }
-.banner{
+.midnight {
     text-align: left;
     font-size: 20px;
     color: #FFF;
     background-image: url(../resources/Vectorrr.png);
+    display: flex;
 }
 .time{
     background-color: mistyrose;
 }
 span{
     color: red;
-}
-.form{
-    border-radius: 10%;
 }
