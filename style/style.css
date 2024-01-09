@@ -153,5 +153,72 @@ span{
     border: none;
     width: 210px;
     height: 70px;
-    
+}
+.footer-start{
+    background-color: #070211;
+    height: 645px;
+}
+.footerplace{
+    width: 80%;
+    max-width: 1300px;
+    display: flex;
+    margin: 150px,200px;
+    justify-content: space-between;
+}
+.address{
+    color: #FFF;
+    font-size: 25px;
+    margin-top: 125px;
+    font-weight: 500px;
+    line-height: 40px;
+    width: 375px;
+}
+.contact{
+    color: #FFF;
+    font-size: 25px;
+    margin-top: 125px;
+    font-weight: 500px;
+    line-height: 40px;
+    width: 375px;
+}
+#phone{
+    margin-right: 16px;
+}
+.website{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 500px;
+    line-height: 40px;
+}
+#web{
+    margin-right: 16px;
+}
+.space{
+    margin-top: 20px;
+    margin-bottom: 48px;
+}
+.icons{
+    margin-right: 200px;
+    text-align: center;
+}
+.footer-end{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 500;
+    margin-right: 140px;
+    display: flex;
+    justify-content: space-between;
+}
+.rights{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 120px;
+    margin-left: 140px;
+}
+.footerclose{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 500;
+    margin-right: 140px;
 }
