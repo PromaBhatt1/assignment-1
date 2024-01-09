@@ -153,8 +153,8 @@ span{
     align-items: center;
 }
 .best-offer{
-    width:80%;
-    padding: 0px,50px;
+    width:90%;
+    padding: 100px 50px;
 }
 .new-best{
     color: #F00;
@@ -172,7 +172,7 @@ span{
 .offers{
     display: flex;
     gap: 20px;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 .offersss{
